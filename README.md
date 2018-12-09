@@ -13,8 +13,9 @@ CSS is a language that describes the style of an HTML document. You may not know
 **Homework**
 
 Open the homework-css_002 using `Brackets` app. It should be found in your Linux virtual machine. 
-Open the file `dogs/index.html`. 
+Open the file `dogs/index.html`.
 
+* Modiify or put HTML code inside `<main>`....`</main>` tag.
 * Here, you are creating a fake dog rescue page that shows picture of available dogs and some descriptions. 
 * Have at least 3 dogs on the page, one has to be *Herb*
 * Use `CSS` and `HTML`.
