@@ -18,15 +18,12 @@ display: inline-block;
 }
 
 #main-nav a {
-color: white;
-background-color: #13a4a4;
 padding: 5px;
 border-radius: 2px;
 text-decoration: none;
 }
 
 #main-nav a.featured {
-background-color: orange;
 box-shadow: 10px 2px #6f9090;
 }
 
@@ -35,8 +32,6 @@ color: blue;
 }
 
 .footer {
-color: #666;
-background-color: #ccc;
 padding: 15px;
 text-align: center;
 font-size: 14px;
@@ -49,14 +44,14 @@ text-decoration: underline;
 
 .container {
     height: 100%;
-    background: aqua;
+
     margin: auto;
     padding: 15px;
 }
 .col_left {
     width: 75%;
     height: 200px;
-    background: red;
+
     float: left;
 }
 .col_right {
